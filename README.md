@@ -19,4 +19,4 @@ validated on real SPX options data across high- and low-volatility regimes.
 |---|---|
 | [Greeks-Calculator-Sensitivity-Analysis-Toolkit](https://github.com/Ciaran-06/Greeks-Calculator-Sensitivity-Analysis-Toolkit) | Vectorised Black-Scholes Greeks and an implied-vol solver on real SPX options data; volatility-smile fitting and sensitivity analysis across VIX regimes |
 ### Tech
-**Python** (NumPy · pandas · SciPy · scikit-learn · LightGBM) · **C++** · Git
+**Python** (NumPy · pandas · SciPy · scikit-learn · LightGBM · **C++** · Git
