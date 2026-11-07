@@ -17,6 +17,6 @@ validated on real SPX options data across high- and low-volatility regimes.
 ### Featured projects
 | Project | What it is |
 |---|---|
-| [Greeks-Calculator-Sensitivity-Analysis-Toolkit](https://github.com/Ciaran-06/Greeks-Calculator-Sensitivity-Analysis-Toolkit) | Vectorised Black-Scholes Greeks and an implied-vol solver on real SPX options data; volatility-smile fitting and sensitivity analysis across VIX regimes |
+| [earningVol](https://github.com/Ciaran-06/earningVol) | *(In progress)* Forecasting earnings-announcement volatility on 20+ years of S&P 500 options data; transformer vs HAR baseline, tested out of sample through a delta-neutral straddle backtest with bid/ask costs
 ### Tech
 **Python** (NumPy · pandas · SciPy · scikit-learn · LightGBM · Git
