@@ -3,8 +3,8 @@
 **Mathematics @ University of Edinburgh · building toward quant research · Python / C++**
 
 Maths undergraduate working in quantitative finance — options pricing, stochastic
-volatility, and machine learning for markets. Member of **EUTIC Quant** (selected
-~30 from 300+ applicants). Aiming for quant research; interested in high-frequency
+volatility, and machine learning for markets. Member of **EUTIC Quant** 
+. Aiming for quant research; interested in high-frequency
 trading and derivatives modelling.
 
 ---
