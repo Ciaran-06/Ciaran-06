@@ -10,9 +10,7 @@ trading and derivatives modelling.
 ---
 
 ### Currently working on
-**Black-Scholes, from academic to applicable** — a research project improving BS
-option pricing with stochastic volatility (Heston) and ML-predicted frictions,
-validated on real SPX options data across high- and low-volatility regimes.
+**Regime Consensus** — a research project testing whether agreement across momentum and mean-reversion signals, weighted by market regime, predicts BTC and ETH returns after trading costs, with hypotheses and kill criteria fixed before any backtest is run.
 
 ### Featured projects
 | Project | What it is |
