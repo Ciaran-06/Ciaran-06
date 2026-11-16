@@ -17,6 +17,6 @@ validated on real SPX options data across high- and low-volatility regimes.
 ### Featured projects
 | Project | What it is |
 |---|---|
-| [earningVol](https://github.com/Ciaran-06/earningVol) | *(In progress)* Forecasting earnings-announcement volatility on 20+ years of S&P 500 options data; transformer vs HAR baseline, tested out of sample through a delta-neutral straddle backtest with bid/ask costs
+| [earningVol](https://github.com/Ciaran-06/earningVol) | Pre-registered test of whether options misprice earnings moves (44k S&P 500 events, 2004–2026). Edge before costs, killed by the bid/ask spread.
 ### Tech
 **Python** (NumPy · pandas · SciPy · scikit-learn · LightGBM · Git
