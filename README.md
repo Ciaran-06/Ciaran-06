@@ -10,7 +10,7 @@ trading and derivatives modelling.
 ---
 
 ### Currently working on
-**Regime Consensus** — a research project testing whether agreement across momentum and mean-reversion signals, weighted by market regime, predicts BTC and ETH returns after trading costs, with hypotheses and kill criteria fixed before any backtest is run.
+**[Regime Consensus](https://github.com/Ciaran-06/regime_consensus)** — a research project testing whether agreement across momentum and mean-reversion signals, weighted by market regime, predicts BTC and ETH returns after trading costs, with hypotheses and kill criteria fixed before any backtest is run.
 
 ### Featured projects
 | Project | What it is |
